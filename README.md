@@ -15,3 +15,7 @@ Pre-processing -> FOTD used in order to have direct comparisons between OLM and 
 
 Training/Evaluation: 
 Used both raw sensor data and FOTD pre-processed data; evaluated training loss, training accuracy, top1 accuracy, and top5 accuracy. 
+
+Technical Blog:
+<img width="2389" height="1589" alt="image" src="https://github.com/user-attachments/assets/25668965-ea36-4ec6-9f6a-996387e39989" />
+
